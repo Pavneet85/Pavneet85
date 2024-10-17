@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pavneet85
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Power BI, SQL, Python
-- 📫 How to reach me - harry_gumber@yahoo.com
+- 📫 How to reach me - pavneet.singh0520@gmail.com
 
 
 <!---
